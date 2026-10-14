@@ -39,5 +39,11 @@ bin/
 ### VS Code ###
 .vscode/
 
-### Mac OS ###
-.DS_Store
+
+### Graphify ###
+graphify-out/cache/
+graphify-out/transcripts/
+graphify-out/*.json
+graphify-out/*_python
+graphify-out/*_root
+*.txt
